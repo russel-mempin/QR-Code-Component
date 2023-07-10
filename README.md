@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/responsive-qr-code-but-the-transition-from-mobile-to-web-is-noticeable-o01xUm4ms9]https://www.frontendmentor.io/solutions/responsive-qr-code-but-the-transition-from-mobile-to-web-is-noticeable-o01xUm4ms9)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-qr-code-but-the-transition-from-mobile-to-web-is-noticeable-o01xUm4ms9](https://www.frontendmentor.io/solutions/responsive-qr-code-but-the-transition-from-mobile-to-web-is-noticeable-o01xUm4ms9)
 - Live Site URL: [https://russel-mempin.github.io/QR-Code-Component/](https://russel-mempin.github.io/QR-Code-Component/)
 
 ## My process
