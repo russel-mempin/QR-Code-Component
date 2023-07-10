@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-qr-code-but-the-transition-from-mobile-to-web-is-noticeable-o01xUm4ms9]https://www.frontendmentor.io/solutions/responsive-qr-code-but-the-transition-from-mobile-to-web-is-noticeable-o01xUm4ms9)
+- Live Site URL: [https://russel-mempin.github.io/QR-Code-Component/](https://russel-mempin.github.io/QR-Code-Component/)
 
 ## My process
 
@@ -40,11 +40,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ```css
 body {
   background-color: #d5e1ef;
-	font-family: 'Poppins', sans-serif;
-	margin: 0;
-	padding: 0;
-	min-height: 100vh;
-	display: flex;
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
 }
 
 footer {
