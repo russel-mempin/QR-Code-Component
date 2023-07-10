@@ -62,7 +62,7 @@ The CSS with the body is a new thing I have learned from somewhere. I used it to
 
 ### Continued development
 
-I think I could have done a more optimal way with the footer since I am not comfortable using position with flex but I don't know what it could be replaced with yet. I also don't know yet how to make the transition from web to mobile unnoticeable since when I resize the window, the qr code 
+I think I could have done a more optimal way with the footer since I am not comfortable using position with flex but I don't know what it could be replaced with yet. I also don't know yet how to make the transition from web to mobile unnoticeable since when I resize the window, the qr code transitions from web to mobile but it does not look like it should.
 
 ### Useful resources
 
@@ -74,5 +74,3 @@ I think I could have done a more optimal way with the footer since I am not comf
 ## Author
 
 - Frontend Mentor - [@russel-mempin](https://www.frontendmentor.io/profile/russel-mempin)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
